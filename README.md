@@ -53,7 +53,8 @@ We are using the Dow Jones Industrial Average stock price for sentiment impact a
 +	LSTM model layers
 +	Added dropout layers to ensure regularization
 ###	Accuracy matrix
-+	RMSE and MAE
++	Root Mean Square Error (RMSE)
++	Mean Absolute Error (MAE)
 
 ### Predicted Stock Price Vs Actual Stock Price
 ![Prediction](https://user-images.githubusercontent.com/55213734/109115604-4de3ff80-770d-11eb-8808-9207525413b5.jpg)
