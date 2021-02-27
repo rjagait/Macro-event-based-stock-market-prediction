@@ -10,7 +10,7 @@ In this product, we aim to predict the impact of the above-listed macro-events o
 
 ![overallFlow](https://user-images.githubusercontent.com/55213734/109114988-64d62200-770c-11eb-9d1f-318bd1738655.JPG)
 
-This product includes 2 levels of predictions
+This product includes 2 levels of predictions along with a [Prototype website](https://rjagait.github.io/Macro-event-based-stock-market-prediction/home)
 1.	Sentiment Impact Analysis: Prediction of the type of impact of Reddit posts on Adj Close price.
 2.	Regression Prediction: using the sentiment impact prediction and other macro-event capturing features to predict the Adj Close price.
 
