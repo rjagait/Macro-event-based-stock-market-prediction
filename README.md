@@ -23,7 +23,7 @@ We are using the Dow Jones Industrial Average stock price for sentiment impact a
 5. [Season of the year](https://finance.zacks.com/seasonal-stock-market-trends-5830.html): to predict how seasonal stock market trends.
 
 ## Sentiment Impact Analysis
-![sentimentImpactPrediction](https://user-images.githubusercontent.com/55213734/109115235-c4ccc880-770c-11eb-9a9d-4e337b5a01fc.JPG)
+![sentimentAnalysis](https://user-images.githubusercontent.com/55213734/109370718-88fe4400-786f-11eb-9a35-c3068aaa27ae.JPG)
 ###	Data preprocessing
 +	Cleaning dataset of any null values
 +	Adding label depicting a change in Adj Close price as binary data
