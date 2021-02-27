@@ -1,10 +1,15 @@
 <div class="container">
-    <h1>Macro Event Based Stock Market Prediction</h1>
+    <div class="mt-5 pt-5">
+    <h1>Macro Event Based Prediction</h1>
    
-    <p>For next generation market prediction, this site uses artificial intelligence to make predictions and helps to invest smartly.</p>
+    <p>For next generation market prediction, our product uses artificial intelligence to make predictions and helps to invest smartly.
+    Our model predicts the impact of various macro-events on the stock price and uses this impact to predict the stock price with better accuracy.
+    These macro-events help us better understand the market fluctuations and potentially help predict these fluctuations even before they become available on news sites like Thomson Reuters.</p>
+    </div>
+    <div class="mt-5 pt-5">
     <form name="Form">
         <div class="form-group">
-            <label for="Category">Category</label>
+            <label for="Category">Select Category</label>
             <select class="form-control form-control-sm">
                 <option>DJIA Stock Price</option>
             </select>
@@ -12,4 +17,5 @@
 
         <button [routerLink]="'/djia'" class="btn btn-primary mt-1">Predict</button>
     </form>
+    </div>
 </div>
